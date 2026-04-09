@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 I'm Veera Babu Tiragatla
+**Senior IT Consultant | SAP HANA & Microsoft Fabric Specialist | MBA**
 
-<!--
-**VeeraBabuTiragatla/VeeraBabuTiragatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Melbourne, Australia, I bridge the gap between complex data architecture and strategic business leadership.
 
-Here are some ideas to get you started:
+### 🚀 Professional Focus
+* **Enterprise Data:** Expert in SAP HANA, SAP BW, and Microsoft Fabric.
+* **Business Strategy:** Focused on Strategic Management, MIS, and Circular Economy models.
+* **Innovation:** Exploring the intersection of AI and sustainable business practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✍️ Latest Technical Insights
+* [S/4HANA in 2025: What Smart Enterprises Are Doing Differently](https://www.linkedin.com/in/veerababutiragatla/)
+* [The Role of Business Intelligence in Sustainable Practices](https://www.researchgate.net/profile/Veera-Babu-Tiragatla)
+
+### 🔗 Connect With Me
+* **Website:** [veerababutiragatla.com](https://www.veerababutiragatla.com)
+* **ORCID iD:** [0009-0000-7088-0144](https://orcid.org/0009-0000-7088-0144)
+* **LinkedIn:** [Veera Babu Tiragatla](https://www.linkedin.com/in/veerababutiragatla/)
