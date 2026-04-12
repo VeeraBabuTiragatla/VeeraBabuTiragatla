@@ -15,6 +15,6 @@ Based in Melbourne, Australia, I bridge the gap between complex data architectur
 ### 🔗 Connect With Me
 * **Website:** [veerababutiragatla.com](https://www.veerababutiragatla.com)
 * **ORCID iD:** [0009-0000-7088-0144](https://orcid.org/0009-0000-7088-0144)
-💼 LinkedIn:** [Veera Babu Tiragatla](https://www.linkedin.com/in/veerababutiragatla/)
-✍️ Medium: [@TVBabu](https://medium.com/@TVBabu)
-📚 ResearchGate: [Veera Babu Tiragatla](https://www.researchgate.net/profile/Veera-Babu-Tiragatla)
+* 💼 LinkedIn:** [Veera Babu Tiragatla](https://www.linkedin.com/in/veerababutiragatla/)
+* ✍️ Medium: [@TVBabu](https://medium.com/@TVBabu)
+* 📚 ResearchGate: [Veera Babu Tiragatla](https://www.researchgate.net/profile/Veera-Babu-Tiragatla)
