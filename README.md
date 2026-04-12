@@ -1,7 +1,8 @@
 # 👋 I'm Veera Babu Tiragatla
-**Senior IT Consultant | SAP HANA & Microsoft Fabric Specialist | MBA**
-
-Based in Melbourne, Australia, I bridge the gap between complex data architecture and strategic business leadership.
+## About Me
+I am a Senior IT Consultant specializing in SAP HANA, Microsoft Fabric, and enterprise data architecture.
+With over 15 years of experience, I help organizations design scalable data platforms that move from traditional reporting to real-time, insight-driven decision systems.
+My work focuses on bridging technical architecture with business outcomes — ensuring data systems are not only efficient, but meaningful and actionable..
 
 ### 🚀 Professional Focus
 * **Enterprise Data:** Expert in SAP HANA, SAP BW, and Microsoft Fabric.
