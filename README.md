@@ -4,7 +4,7 @@
 
 I am a Melbourne-based Senior IT Consultant and Enterprise Data Architect working across SAP HANA, Microsoft Fabric, enterprise AI and decision intelligence.
 
-My career spans approximately 25 years of change in data and enterprise technology — from programmed data processing and relational databases to data warehousing, SAP HANA, cloud analytics and AI-enabled decision systems.
+My career spans **15+ years in IT and consulting, complemented by 5+ years across research, education and corporate training.**
 
 I write and build around one central question: **How can powerful systems become clearer, more useful and more meaningful to the people making decisions with them?**
 
